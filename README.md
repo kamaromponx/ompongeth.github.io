@@ -1,1 +1,1 @@
-🤡 only meme for fun 🤡
+🤡 ONLY MEME FOR FUN 🤡
