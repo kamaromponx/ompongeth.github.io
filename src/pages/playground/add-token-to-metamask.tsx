@@ -13,7 +13,7 @@ const AddTokenToMetaMask = () => {
             address: "0xBABC4612Bb07009cd43ba417cFD4E01D91BC45d6",  // ERC20 token address
             symbol: `ABIS`,
             decimals: 18,
-            image: 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png',
+            image: 'https://raw.githubusercontent.com/ompongeth/assets/48ccdc5fe373b76a07fc4ff65b20e6264428e565/dapps/abis.png',
           },
         },
       })
