@@ -10,8 +10,8 @@ const AddTokenToMetaMask = () => {
         params: {
           type: 'ERC20',
           options: {
-            address: "0x6B175474E89094C44Da98b954EedeAC495271d0F",  // ERC20 token address
-            symbol: `DAI`,
+            address: "0xBABC4612Bb07009cd43ba417cFD4E01D91BC45d6",  // ERC20 token address
+            symbol: `ABIS`,
             decimals: 18,
             image: 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png',
           },
@@ -31,8 +31,8 @@ const AddTokenToMetaMask = () => {
       <div className="text-4xl font-bold mb-10 text-center">Add Token to MetaMask</div>
 
       <div className="text-center">
-        <button onClick={addTokenToMM} className="p-3 bg-blue-600 text-white rounded-lg font-bold">Add DAI to MetaMask</button>
-        <div className="mt-4 italic">Note: this is Ethereum mainnet DAI. Not testnet or layer 2.</div>
+        <button onClick={addTokenToMM} className="p-3 bg-blue-600 text-white rounded-lg font-bold">Add ABIS to MetaMask</button>
+        <div className="mt-4 italic">Note: this is Conflux eSpace Network</div>
       </div>
 
     </div>
