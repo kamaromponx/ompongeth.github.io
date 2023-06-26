@@ -32,7 +32,7 @@ const AddTokenToMetaMask = () => {
 
       <div className="text-center">
         <button onClick={addTokenToMM} className="p-3 bg-blue-600 text-white rounded-lg font-bold">Add ABIS to MetaMask</button>
-        <div className="mt-4 italic">Note: this is Conflux eSpace Network</div>
+        <div className="mt-4 italic">This is Conflux eSpace Network</div>
       </div>
 
     </div>
